@@ -12,8 +12,7 @@ Install GCalToolkit, GTasksToolkit, GCalExtras, Sheets2GCal & GCalPlus here:
 
 Manage your accounts here:
 
-- GCalToolkit -> https://www.gcaltoolkit.com
-- GTasksToolkit -> https://www.gcaltoolkit.com
+- GCalToolkit/GTasksToolkit -> https://www.gcaltoolkit.com
 - Sheets2GCal/GCalExtras -> https://www.sheets2gcal.com
 
 To report issues please contact me by email or report on Github:
