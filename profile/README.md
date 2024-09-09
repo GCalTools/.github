@@ -1,4 +1,4 @@
-### Welcome to GCalTools, home of GCalToolkit and GTasksToolkit desktop software for Google Calendar (Windows/osX/Linux), the Google Sheets add-on Sheets2GCal, Chrome Extension GCalPlus, and the Google Calendar add-on GCalExtras.
+### Welcome to GCalTools: helping you with Google Calendar since 2010
 
 <!--
 -->
@@ -15,3 +15,13 @@ Manage your accounts here:
 - GCalToolkit -> https://www.gcaltoolkit.com
 - GTasksToolkit -> https://www.gcaltoolkit.com
 - Sheets2GCal/GCalExtras -> https://www.sheets2gcal.com
+
+To report issues please contact me by email or report on Github:
+
+- GCalToolkit -> https://github.com/GCalToolkit/GCalToolkit/issues
+- GTasksToolkit -> https://github.com/GTasksToolkit/GTasksToolkit/issues
+- Sheets2GCal -> https://github.com/GCalTools/Sheets2GCal/issues
+- GCalExtras -> https://github.com/GCalTools/GCalExtras/issues
+- GCalPlus -> https://github.com/GCalTools/GCalPlus/issues
+
+To browse all links, videos, contacts and socials: https://gcaltools.com/
