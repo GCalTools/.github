@@ -10,9 +10,9 @@ Install our software:
 
 - GCalToolkit: https://www.gcaltoolkit.com
 - Sheets2GCal: https://workspace.google.com/marketplace/app/sheets2gcal/137564231775
-- GTasksToolkit: https://www.gcaltoolkit.com/downloads
+- GTasksToolkit: https://www.gcaltoolkit.com/downloads#gtaskstoolkit
 - GCalExtras: https://www.sheets2gcal.com/gcalextras
-- GCalPlus: https://chrome.google.com/webstore/detail/google-calendar-plus/mjelhipeelammmhpghkpigkdonihkakj?hl=en
+- GCalPlus: https://chrome.google.com/webstore/detail/google-calendar-plus/mjelhipeelammmhpghkpigkdonihkakj
 - KeepManager: https://www.gcaltools.com/#keep-manager
 - Excelendar: https://excelendar.com
 
