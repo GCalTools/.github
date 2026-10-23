@@ -4,17 +4,18 @@ Helping you manage Online Calendars since 2010
 <!--
 -->
 
-For an overview of all our tools: https://gcaltools.com/
+For an overview of all our tools: https://www.gcaltools.com/
 
 Install our software:
 
 - GCalToolkit: https://www.gcaltoolkit.com
 - Sheets2GCal: https://workspace.google.com/marketplace/app/sheets2gcal/137564231775
-- GTasksToolkit: https://www.gcaltoolkit.com/downloads#gtaskstoolkit
-- GCalExtras: https://www.sheets2gcal.com/gcalextras
+- GTasksToolkit: https://www.gcaltools.com/gtaskstoolkit
+- GCalExtras: https://www.gcaltools.com/gcalextras
 - GCalPlus: https://chrome.google.com/webstore/detail/google-calendar-plus/mjelhipeelammmhpghkpigkdonihkakj
 - KeepManager: https://www.gcaltools.com/#keep-manager
 - Excelendar: https://excelendar.com
+- Pay2Book: https://pay2book.app
 
 Manage your account:
 
@@ -31,3 +32,4 @@ To report issues please contact me by email or report on Github:
 - GCalPlus: https://github.com/GCalTools/GCalPlus/issues
 - KeepManager: https://github.com/GCalTools/KeepManager/issues
 - Excelendar: https://github.com/GCalTools/Excelendar/issues
+- Pay2Book: https://github.com/GCalTools/Pay2Book/issues
