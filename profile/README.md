@@ -16,6 +16,7 @@ Install our software:
 - KeepManager: https://www.gcaltools.com/#keep-manager
 - Excelendar: https://excelendar.com
 - Pay2Book: https://pay2book.app
+- ContactSwap: https://www.gcaltools.com/contactswap
 
 Manage your account:
 
@@ -33,3 +34,4 @@ To report issues please contact me by email or report on Github:
 - KeepManager: https://github.com/GCalTools/KeepManager/issues
 - Excelendar: https://github.com/GCalTools/Excelendar/issues
 - Pay2Book: https://github.com/GCalTools/Pay2Book/issues
+- ContactSwap: https://github.com/GCalTools/ContactSwap/issues
